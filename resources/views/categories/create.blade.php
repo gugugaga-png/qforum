@@ -7,7 +7,7 @@
         @csrf
     
        <div class="mb-3">
-        <label for="name" class="form-label">Nama Kategori:</label><br>
+        <label for="name" class="form-label">Nama w:</label><br>
         <input type="text" name="name" id="name" class="form-control"><br><br>
        </div>
     
