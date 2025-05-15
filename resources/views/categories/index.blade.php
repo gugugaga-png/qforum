@@ -5,7 +5,7 @@
 @section('content')
 
 <div class="container py-3">
-    <h1 class="text-3xl font-bold mb-3">Daftar asd</h1>
+    <h1 class="text-3xl font-bold mb-3">Daftar bakwan</h1>
 
     <!-- Form Pencarian -->
     <form method="GET" action="{{ route('categories.index') }}" class="mb-4">
